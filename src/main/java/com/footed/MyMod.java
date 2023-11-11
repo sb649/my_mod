@@ -17,6 +17,6 @@ public class MyMod implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Hello world!");
+		LOGGER.info("Hello World!");
 	}
 }
